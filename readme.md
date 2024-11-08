@@ -23,3 +23,6 @@ Then, run the following command to deploy your app:
 Follow this guide: https://serverize.sh/guides/ci-cd/
 
 Happy Serverizing!
+
+> [!IMPORTANT]
+> Make sure your project have a [healthcheck endpoint](https://learn.microsoft.com/en-us/aspnet/core/host-and-deploy/health-checks).
